@@ -1,0 +1,89 @@
+[
+  {
+    "nume": "birou",
+    "placi": [
+      {
+        "descriere": "capac",
+        "lungime": 1200,
+        "latime": 600,
+        "orientare": "LUNGIME",
+        "canturi": [true, true, true, true],
+        "nr_bucati": 1
+      },
+      {
+        "descriere": "laterala",
+        "lungime": 732,
+        "latime": 550,
+        "orientare": "LUNGIME",
+        "canturi": [true, false, true, false],
+        "nr_bucati": 2
+      },
+      {
+        "descriere": "legatura",
+        "lungime": 1100,
+        "latime": 300,
+        "orientare": "ORICARE",
+        "canturi": [true, false, false, false],
+        "nr_bucati": 1
+      }
+    ]
+  },
+  {
+    "nume": "dulap",
+    "placi": [
+      {
+        "descriere": "laterala",
+        "lungime": 2000,
+        "latime": 500,
+        "orientare": "LUNGIME",
+        "canturi": [true, true, true, false],
+        "nr_bucati": 2
+      },
+      {
+        "descriere": "capac",
+        "lungime": 900,
+        "latime": 500,
+        "orientare": "LATIME",
+        "canturi": [true, true, true, false],
+        "nr_bucati": 2
+      },
+      {
+        "descriere": "raft mobil",
+        "lungime": 864,
+        "latime": 450,
+        "orientare": "ORICARE",
+        "canturi": [true, false, false, false],
+        "nr_bucati": 4
+      },
+      {
+        "descriere": "usa",
+        "lungime": 1990,
+        "latime": 445,
+        "orientare": "LUNGIME",
+        "canturi": [true, true, true, true],
+        "nr_bucati": 2
+      }
+    ]
+  },
+  {
+    "nume": "etajera",
+    "placi": [
+      {
+        "descriere": "laterala",
+        "lungime": 1500,
+        "latime": 300,
+        "orientare": "LUNGIME",
+        "canturi": [true, true, true, false],
+        "nr_bucati": 2
+      },
+      {
+        "descriere": "raft fix",
+        "lungime": 700,
+        "latime": 300,
+        "orientare": "LATIME",
+        "canturi": [true, false, false, false],
+        "nr_bucati": 5
+      }
+    ]
+  }
+]
